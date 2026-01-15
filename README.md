@@ -10,13 +10,17 @@ README.md
 │  ├─ processed/   
 
 ├─ src/
-│  ├─ data_prep.py             (functions used by notebooks)
-│  ├─ plotting.py
-│  └─ utils.py
+│  ├─ __init__.py               ---->               empty
+│  ├─ data_prep.py              ---->               cleaning logic
+│  ├─ plotting.py               ---->               charts
+│  └─ utils.py                  ---->               calculations
 
 ├─ notebooks/
-│  ├─ 00_setup.ipynb
-│  ├─ 01_exploration.ipynb
-│  ├─ 02_cleaning.ipynb
-│  └─ 03_modeling_or_analysis.ipynb
+│  ├─ 00_setup.ipynb            ---->               imports and setups
+│  ├─ 01_eda.ipynb              ---->               exploration & comments
+│  ├─ 02_clean.ipynb            ---->               calls functions
+│  ├─ 03_analysis.ipynb         ---->               tells the story
+│  └─ 04_results.ipynb          ---->        
 ```
+
+## Project Scope
