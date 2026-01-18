@@ -1,10 +1,11 @@
 # biodiversity-in-national-parks
 In this project, I will explore the the biodiveristy observed in a variety of national parks. I will analyze the data from two datasets (```observations.csv``` and ```species_info.csv```) to answer the questions below:
-      * Identify which parks have the most observations
-      * Identify the most and least spotted species
-      * Identify why some species are endangered
-      * Identify which species are the most and least isolated (how many national parks are they in?)
-      * Visualize the conservation status of each species in the dataset
+* Identify which parks have the most observations
+* Identify the most and least spotted species
+* Identify why some species are endangered
+* Identify which species are the most and least isolated (how many national parks are they in?)
+* Visualize the conservation status of each species in the dataset
+
 ## Repository Structure
 ```
 README.md
